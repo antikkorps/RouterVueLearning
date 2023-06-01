@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Chevy",
+    "price": 30000,
+    "year": 2018,
+    "contact": {
+      "dealer": "John",
+      "phone": "1234567890"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bentley",
+    "price": 21000,
+    "year": 2005,
+    "contact": {
+      "dealer": "Jamie",
+      "phone": "555555555"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Ford",
+    "price": 18000,
+    "year": 2015,
+    "contact": {
+      "dealer": "Robert",
+      "phone": "444444444"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Land Rover",
+    "price": 18000,
+    "year": 2019,
+    "contact": {
+      "dealer": "Sam",
+      "phone": "222222222"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Nissan",
+    "price": 30000,
+    "year": 2009,
+    "contact": {
+      "dealer": "Ed",
+      "phone": "333333333"
+    }
+  }
+]
